@@ -133,8 +133,8 @@ client_and_work:
     - logo:
         x: "img/clients/stand.png"
         _2x: "img/clients/stand@2x.png"
-      alt: "Stand.Earth"
       URL: "https://www.linkedin.com/in/fatih-uenal/"
+      alt: "Stand.Earth"
 
     - logo:
         x: "img/clients/ffnpt.png"
