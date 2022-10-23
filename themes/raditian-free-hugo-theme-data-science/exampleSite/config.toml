@@ -64,11 +64,11 @@ theme = "raditian-free-hugo-theme"
   googleAnalyticsID = "" 
 
   [params.logo]
-    text1 = "Matt"
-    text2 = "Dancho"
+    text1 = "Fatih"
+    text2 = "Uenal"
 
   [params.footer]
-      copyright = "© Matt Dancho. All rights reserved."
+      copyright = "© Fatih Uenal. All rights reserved."
       [params.footer.site_logo]
         x = "img/general/business-science-logo.png"
         _2x = "img/general/business-science-logo.png"
