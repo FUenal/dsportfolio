@@ -1,0 +1,246 @@
+head:
+  title: "The Dataist - Fatih Uenal"
+
+# showcase
+showcase:
+  enable: true
+  title: "Fatih Uenal"
+  subtitle: "Senior Researcher & Data Scientist"
+  description: "Senior Researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>, and Data Scientist with the <a target='_blank' href='https://fossilfueltreaty.org/'>Fossil Fuel Non-Proliferation Treaty Initiative </a>."
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase.png"
+  imageMobile:
+    x: "img/showcase/showcase@2x.png"
+    _2x: "img/showcase/ishowcase@2x.png"
+
+  button:
+    icon: "icon-mail-fill"  
+    btnText: "Contact Fatih"
+    URL: "mailto:mars.fatih@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/fatih-uenal/"
+
+    - icon: "github"
+      URL: "https://github.com/FUenal"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/DrUenal"
+
+    # - icon: "dribbble"
+    #   URL: "https://dribbble.com"
+    # 
+    # - icon: "behance"
+    #   URL: "https://www.behance.net"
+    # 
+    # - icon: "youtube"
+    #   URL: "https://www.youtube.com"
+    # 
+    # - icon: "instagram"
+    #   URL: "https://www.instagram.com"
+    # 
+    # - icon: "facebook"
+    #   URL: "https://www.facebook.com"
+
+    - icon: "codepen"
+      URL: "https://scholar.harvard.edu/fatih-uenal"
+
+    # - icon: "yelp"
+    #   URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I enjoy using data science and AI to solve real world problems.</strong> My passion is using data science for social and environmental issues such as climate change and social inequality.
+    When I am not data sciencing, I enjoy hiking, yoga, and sci-fi. 
+    </p>
+    <p class="lead">
+    Besides my work as a data scientist, I work as a senior researcher at the University of Geneva. 
+    I primarily investigate evidenced-based climate change communication strategies to facilitate increased pro-environmental behaviors. 
+    To this end, I am developing and experimentally evaluating different psychological intervention methods aimed at sustainable behavior change. 
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/fatih-uenal/"
+  image:
+    x: "img/who-am-i/user-picture-3.jpg"
+    _2x: "img/who-am-i/user-picture-3.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 3 years of experience working with the non-profit sector and academia. I design & develop data science products to help increase efficiency and resource management."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/fatih-uenal/"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "#"
+
+  items:
+    - title: "Data Scientist"
+      company: "Fossil Fuel Non-Proliferation Treaty Initiative"
+      duration: "Feb 2021 - to present"
+      
+    - title: "Data Scientist"
+      company: "University of Geneva"
+      duration: "Oct 2021 - to present"
+      
+    - title: "Data Scientist"
+      company: "University of Cambridge"
+      duration: "Aug 2020 - Dec 2020"
+
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Faculty AI"
+      year: "2021-2021"
+      degree: "Data Science Fellowship"
+      
+    - university: "University of Cambridge"
+      year: "2019-2021"
+      degree: "Postdoctoral research associate"
+
+    - university: "Harvard University"
+      year: "2016-2018"
+      degree: "Postdoctoral researcher"
+      
+    - university: "Humboldt University of Berlin"
+      year: "2014-2017"
+      degree: "Ph.D. in Social Sciences"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: true
+  clients:
+    - logo:
+        x: "img/clients/stand.png"
+        _2x: "img/clients/stand@2x.png"
+      alt: "Stand.Earth https://www.linkedin.com/in/fatih-uenal/"
+      URL: "https://www.linkedin.com/in/fatih-uenal/"
+
+    - logo:
+        x: "img/clients/ffnpt.png"
+        _2x: "img/clients/ffnpt@2x.png"
+      alt: "Fossil Fuel Non-Proliferation Treaty Initiative"
+
+    - logo:
+        x: "img/clients/camb.png"
+        _2x: "img/clients/camb@2x.png"
+      alt: "University of Cambridge"
+
+    - logo:
+        x: "img/clients/sussex.png"
+        _2x: "img/clients/sussex@2x.png"
+      alt: "University of Sussex"
+
+    - logo:
+        x: "img/clients/TWN.png"
+        _2x: "img/clients/TWN@2x.png"
+      alt: "Third World Network"
+
+    - logo:
+        x: "img/clients/faculty.png"
+        _2x: "img/clients/faculty@2x.png"
+      alt: "Faculty AI"
+
+  works:
+    - title: "Fossil fuel non-proliferation policy tracker application"
+      description: "The objective of the Fossil Fuel Non-Proliferation Tracker is to identify, gather, filter, categorise and visualise supply-side policies on a global scale, while also providing granular insight within each country on the actors involved in furthering supply-side policies. "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://fossilfueltracker.org/app/ffnpt"
+      image:
+        x: "img/works/tracker-app.jpg"
+        _2x: "img/works/tracker-app.jpg"
+      is_even: true
+
+    - title: "NLP pipeline for text-classification"
+      description: "This application is based on an Artificial Neural Network model to classify policy texts using data from various sources such as news-articles and official government databases. Having an automated text classification model saves a significant amount of time and resources and allows for a real-time tracking of fossil-fuel policy developments."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://github.com/FUenal/fossil_fuel_policy_nlp"
+      image:
+        x: "img/works/NLP_Pipeline.jpg"
+        _2x: "img/works/NLP_Pipeline.jpg"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Fatih"
+    
+  image:
+    x: "img/who-am-i/user-picture-3 copy.jpg"
+    _2x: "img/who-am-i/user-picture-3 copy.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:mars.fatih@gmail.com'
+    
+  email:
+    title: "Email"
+    email: '<a href="mailto:mars.fatih@gmail.com">mars.fatih@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Campus Biotech, Chemin des Mines 9, 1202 Genève"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
