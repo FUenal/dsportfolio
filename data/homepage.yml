@@ -81,10 +81,10 @@ experience:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/fatih-uenal/"
-  # button2:
-  #   icon: "icon-profile-fill"
-  #   btnText: "Download My Resume"
-  #   URL: "#"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://dataist.netlify.app/cv/resume_FUenal.pdf"
 
   items:
     - title: "Data Scientist"
