@@ -56,7 +56,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I enjoy using data science and AI to solve real world problems.</strong> My passion is using data science for social and environmental issues such as climate change and social inequality.
+    <strong>I enjoy using data science and AI to solve real world problems.</strong> My passion is using data science for solving complex issues.
     When I am not data sciencing, I enjoy hiking, yoga, and sci-fi. 
     </p>
     <p class="lead">
@@ -162,6 +162,17 @@ client_and_work:
       alt: "Faculty AI"
 
   works:
+    - title: "XGBoost powered prediction on multi-county representative surveys"
+      description: "In this full-stack data science project for the University of Geneva, I used XGBoost in python to distill the most important features in predicting fossil fuel taxtation preferences. The results of this project are available in a pre-print of the manuscript currently in preparation for an academic journal. "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Open Juypter Notebook"
+        URL: "https://osf.io/preprints/psyarxiv/65tx4/"
+      image:
+        x: "img/works/xgboost.jpg"
+        _2x: "img/works/xgboost.jpg"
+      is_even: true
+      
     - title: "Fossil fuel non-proliferation policy tracker application"
       description: "The objective of the Fossil Fuel Non-Proliferation Tracker is to identify, gather, filter, categorise and visualise supply-side policies on a global scale, while also providing granular insight within each country on the actors involved in furthering supply-side policies. "
       button:
@@ -171,7 +182,7 @@ client_and_work:
       image:
         x: "img/works/tracker-app.jpg"
         _2x: "img/works/tracker-app.jpg"
-      is_even: true
+      is_even: false
 
     - title: "NLP pipeline for text-classification"
       description: "This application is based on an Artificial Neural Network model to classify policy texts using data from various sources such as news-articles and official government databases. Having an automated text classification model saves a significant amount of time and resources and allows for a real-time tracking of fossil-fuel policy developments."
@@ -182,7 +193,7 @@ client_and_work:
       image:
         x: "img/works/NLP_Pipeline.jpg"
         _2x: "img/works/NLP_Pipeline.jpg"
-      is_even: false
+      is_even: true
       
     - title: "Using AI and Data Science in climate policy research"
       description: "At the University of Oxford, I present how we use AI and Data Science to accelerate and improve the policy research and advocacy work at the Fossil Fuel Non-Proliferation Treaty Initiative."
@@ -193,7 +204,7 @@ client_and_work:
       image:
         x: "img/works/Oxford.png"
         _2x: "img/works/Oxford.png"
-      is_even: true
+      is_even: false
       
     - title: "Introducing the Fossil Fuel Non-Proliferation Tracker"
       description: "In this short video, I'll walk you through one of my data science projects which I developed for the Fossil Fuel Non-Proliferation Treaty Initiative (https://fossilfueltreaty.org/). I explain what the goals of the Treaty Initiative are, and, how my project introduced data science and AI to improve the data workflow and public communication of the Initiative. I explain how I programmed a Dashboard with R and trained an Artificial Neural Network for text classification and how these assist the Treaty in their efforts."
