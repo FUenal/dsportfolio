@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Fatih Uenal"
-  subtitle: "Senior Researcher & Data Scientist"
+  subtitle: "Senior Quantitative Researcher & Data Scientist"
   description: "Senior Researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>, and Data Scientist with the <a target='_blank' href='https://fossilfueltreaty.org/'>Fossil Fuel Non-Proliferation Treaty Initiative </a>."
   image:
     x: "img/showcase/showcase.png"
@@ -124,9 +124,7 @@ education:
     - university: "Faculty AI"
       year: "2021-2021"
       degree: "Data Science Fellowship"
-    
-    title: "Education"
-    items:
+
     - university: "University of Cambridge"
       year: "2019-2021"
       degree: "Postdoctoral research associate"
@@ -137,7 +135,7 @@ education:
       
     - university: "Humboldt University of Berlin"
       year: "2014-2017"
-      degree: "Ph.D. in Social Sciences"
+      degree: "Ph.D. in Quantitative Social Sciences"
 
 
 
