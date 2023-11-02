@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Fatih Uenal"
   subtitle: "Senior Quantitative Researcher & Data Scientist"
-  description: "Senior Researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>, and Data Scientist with the <a target='_blank' href='https://fossilfueltreaty.org/'>Fossil Fuel Non-Proliferation Treaty Initiative </a>."
+  description: "Senior quantitative researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>, and Data Scientist with the <a target='_blank' href='https://fossilfueltreaty.org/'>Fossil Fuel Non-Proliferation Treaty Initiative </a>."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase.png"
