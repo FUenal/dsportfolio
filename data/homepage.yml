@@ -162,7 +162,7 @@ client_and_work:
       alt: "Faculty AI"
 
   works:
-    - title: "XGBoost powered prediction on multi-county representative surveys"
+    - title: "XGBoost powered prediction on multi-county datasets"
       description: "In this full-stack data science project for the University of Geneva, I used XGBoost in python to distill the most important features in predicting fossil fuel taxtation preferences. The results of this project are available in a pre-print of the manuscript currently in preparation for an academic journal. "
       button:
         icon: "icon-arrow-right"
