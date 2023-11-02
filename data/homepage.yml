@@ -100,10 +100,10 @@ experience:
       duration: "Aug 2020 - Dec 2020"
 
 
-# certifications
-certifications:
+# education
+education:
   enable: true
-  title: "Certifications"
+  title: "Education"
   items:
     - university: "Google"
       year: "2023"
@@ -121,12 +121,6 @@ certifications:
       year: "2020"
       degree: "Harvard Data Science: Machine Learning"
       
-      
-# education
-education:
-  enable: true
-  title: "Education"
-  items:
     - university: "Faculty AI"
       year: "2021-2021"
       degree: "Data Science Fellowship"

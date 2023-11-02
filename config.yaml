@@ -26,7 +26,6 @@ params:
     - about
     - client-and-work
     - experience
-    - certifications
     - education
     - testimonial
     - contact
@@ -49,9 +48,6 @@ menu:
     - URL: '#portfolio'
       name: Portfolio
       weight: 3
-    - URL: '#certifications'
-      name: Certifications
-      weight: 4
     - URL: '#contact'
       name: Contact
       weight: 4
