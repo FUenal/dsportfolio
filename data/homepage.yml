@@ -124,7 +124,9 @@ education:
     - university: "Faculty AI"
       year: "2021-2021"
       degree: "Data Science Fellowship"
-      
+    
+    title: "Education"
+    items:
     - university: "University of Cambridge"
       year: "2019-2021"
       degree: "Postdoctoral research associate"
