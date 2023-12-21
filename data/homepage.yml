@@ -91,13 +91,17 @@ experience:
       company: "Fossil Fuel Non-Proliferation Treaty Initiative"
       duration: "Feb 2021 - to present"
       
-    - title: "Data Scientist"
+    - title: "Behavioral Data Scientist"
       company: "University of Geneva"
       duration: "Oct 2021 - to present"
       
     - title: "Data Scientist"
       company: "University of Cambridge"
       duration: "Aug 2020 - Dec 2020"
+      
+    - title: "Data Analyst"
+      company: "Harvard University"
+      duration: "Aug 2016 - Aug 2018"
 
 
 # education
@@ -110,9 +114,8 @@ education:
       degree: "Google Cyber Security Professional"
       
     - university: "CompTIA Academy"
-      year: "2023"
-      degree: "CompTIA Security+"
-
+      year: "2024"
+      degree: "CompTIA Security+ (in progress)" 
     - university: "Harvard University"
       year: "2021"
       degree: "Harvard Data Science Professional"
@@ -178,6 +181,16 @@ client_and_work:
       alt: "Faculty AI"
 
   works:
+    - title: "Deep learning vs. XGBoost on network traffic data"
+      description: "I use the [fast.ai](https://www.fast.ai/) deep learning framework for one of its newest applications: classification on tabular data. I compare its performance against the incumbent best tool in the field, gradient boosting with [XGBoost](https://xgboost.readthedocs.io/en/latest/), as well as against various scikit-learn classifiers in detecting network intrusion traffic and classifying common network attack types (e.g., FTP-BruteForce, DOS-GoldenEye, BruteForce-XSS, SQL-Injection, Infiltration, BotAttack). "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Open Github"
+        URL: "https://github.com/FUenal/deep-learning-cybersecurity-ids/tree/main"
+      image:
+        x: "img/works/fastai_vs_xgboost.png"
+        _2x: "img/works/fastai_vs_xgboost.png"
+      is_even: true
     - title: "XGBoost powered prediction on multi-county datasets"
       description: "In this full-stack data science project for the University of Geneva, I used XGBoost in python to distill the most important features in predicting fossil fuel taxtation preferences. The results of this project are available in a pre-print of the manuscript currently in preparation for an academic journal. "
       button:
@@ -187,7 +200,7 @@ client_and_work:
       image:
         x: "img/works/xgboost.jpg"
         _2x: "img/works/xgboost.jpg"
-      is_even: true
+      is_even: false
       
     - title: "Fossil fuel non-proliferation policy tracker application"
       description: "The objective of the Fossil Fuel Non-Proliferation Tracker is to identify, gather, filter, categorise and visualise supply-side policies on a global scale, while also providing granular insight within each country on the actors involved in furthering supply-side policies. "
@@ -198,18 +211,18 @@ client_and_work:
       image:
         x: "img/works/tracker-app.jpg"
         _2x: "img/works/tracker-app.jpg"
-      is_even: false
+      is_even: true
 
     - title: "NLP pipeline for text-classification"
       description: "This application is based on an Artificial Neural Network model to classify policy texts using data from various sources such as news-articles and official government databases. Having an automated text classification model saves a significant amount of time and resources and allows for a real-time tracking of fossil-fuel policy developments."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
+        btnText: "Open Github"
         URL: "https://github.com/FUenal/fossil_fuel_policy_nlp"
       image:
         x: "img/works/NLP_Pipeline.jpg"
         _2x: "img/works/NLP_Pipeline.jpg"
-      is_even: true
+      is_even: false
       
     - title: "Using AI and Data Science in climate policy research"
       description: "At the University of Oxford, I present how we use AI and Data Science to accelerate and improve the policy research and advocacy work at the Fossil Fuel Non-Proliferation Treaty Initiative."
@@ -220,7 +233,7 @@ client_and_work:
       image:
         x: "img/works/Oxford.png"
         _2x: "img/works/Oxford.png"
-      is_even: false
+      is_even: true
       
     - title: "Introducing the Fossil Fuel Non-Proliferation Tracker"
       description: "In this short video, I'll walk you through one of my data science projects which I developed for the Fossil Fuel Non-Proliferation Treaty Initiative (https://fossilfueltreaty.org/). I explain what the goals of the Treaty Initiative are, and, how my project introduced data science and AI to improve the data workflow and public communication of the Initiative. I explain how I programmed a Dashboard with R and trained an Artificial Neural Network for text classification and how these assist the Treaty in their efforts."
