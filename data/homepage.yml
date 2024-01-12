@@ -56,13 +56,14 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I enjoy using data science and AI to solve real world problems.</strong> My passion is using data science for solving complex issues.
-    When I am not data sciencing, I enjoy hiking, yoga, and sci-fi. 
+    <strong> With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
+    the full potential of their data.</strong> I focus on applying machine learning, deep learning, and survey methodology techniques in the Marketing, 
+    Finance, and Cybersecurity domains to improve data-based decision-making. When I am not data sciencing, I enjoy hiking, yoga, and sci-fi. 
     </p>
     <p class="lead">
     Besides my work as a data scientist, I work as a senior researcher at the University of Geneva. 
-    I primarily investigate evidenced-based climate change communication strategies to facilitate increased pro-environmental behaviors. 
-    To this end, I am developing and experimentally evaluating different psychological intervention methods aimed at sustainable behavior change. 
+    I primarily investigate evidenced-based  communication strategies to facilitate behavior change. 
+    To this end, I am developing and experimentally evaluating different psychological intervention methods aimed at behavior change. 
     </p>
   button:
     icon: "icon-smile-fill"
@@ -76,7 +77,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 3 years of experience working with the non-profit sector and academia. I design & develop data science products to help increase efficiency and resource management."
+  description: "Over 8 years of experience working within consulting, industry, academia, and government. I design & develop data science products to help increase efficiency and resource management."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -87,13 +88,13 @@ experience:
     URL: "https://dataist.netlify.app/cv/resume_FUenal.pdf"
 
   items:
-    - title: "Data Scientist"
+    - title: "Senior Data Scientist"
       company: "Fossil Fuel Non-Proliferation Treaty Initiative"
       duration: "Feb 2021 - to present"
       
     - title: "Behavioral Data Scientist"
       company: "University of Geneva"
-      duration: "Oct 2021 - to present"
+      duration: "Oct 2021 - Dec 2023"
       
     - title: "Data Scientist"
       company: "University of Cambridge"
@@ -146,13 +147,12 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
-  
   enable_clients: true
   clients:
     - logo:
         x: "img/clients/stand.png"
         _2x: "img/clients/stand@2x.png"
-      URL: "https://www.linkedin.com/in/fatih-uenal/"
+      URL: "https://stand.earth/"
       alt: "Stand.Earth"
 
     - logo:
@@ -250,32 +250,30 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: false
+  enable: true
   title: "Testimonials"
   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - name: "Maria Diaz, PhD"
+      position: "Head of Fellowship @ Faculty | AI"
+      content: "In less than 2 months after starting his Faculty AI Data Science Fellowship, Fatih had transitioned into a role as a data scientist with the Fossil Fuel Non-Proliferation Treaty Initiative!"
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+        x: "img/testimonials/maria.jpg"
+        _2x: "img/testimonials/maria.jpg"
         
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+    - name: "Prof. Peter Newell"
+      position: "Professor of International Relations, University of Sussex"
+      content: "Because of all the data science and AI skills Fatih has provided, we have brought our database to life and can share it with people all around the world. Setting up shiny dashboards on Digital Ocean was extremely helpful providing access to our database."
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
+        x: "img/testimonials/Peter.jpg"
+        _2x: "img/testimonials/Peter.jpg"
 
-    
-
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+    - name: "Prof. Sander van der Linden"
+      position: "Professor of Social Psychology, University of Cambridge"
+      content: "Thanks to Fatih's skills in machine learning, we were able to analyze our big data sets and gain valuable insights into Europeans' energy preferences.q"
       image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
+        x: "img/testimonials/sander.jpg"
+        _2x: "img/testimonials/sander.jpg"
 
 # contact
 contact:
