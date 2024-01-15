@@ -1,12 +1,12 @@
 head:
-  title: "dataIQ - Data Science Consultancy"
+  title: "DataIQ - Data Science Consultancy"
 
 # showcase
 showcase:
   enable: true
   title: "Data Science Consultancy"
   subtitle: "Fatih Uenal, PhD"
-  description: "Senior quantitative researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>, and Data Scientist with the <a target='_blank' href='https://fossilfueltreaty.org/'>Fossil Fuel Non-Proliferation Treaty Initiative </a>."
+  description: "Senior Data Scientist <a target='_blank' href='https://www.linkedin.com/company/dataiq-ch/'>DataIQ </a>, and Behavioral researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase.png"
@@ -16,12 +16,12 @@ showcase:
 
   button:
     icon: "icon-mail-fill"  
-    btnText: "Contact Fatih"
+    btnText: "Contact DataIQ"
     URL: "mailto:mars.fatih@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/fatih-uenal/"
+      URL: "https://www.linkedin.com/company/dataiq-ch/"
 
     - icon: "github"
       URL: "https://github.com/FUenal"
@@ -58,17 +58,16 @@ about:
     <p class="lead">
     <strong> With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
     the full potential of their data.</strong> I focus on applying machine learning, deep learning, and survey methodology techniques in the Marketing, 
-    Finance, and Cybersecurity domains to improve data-based decision-making. When I am not data sciencing, I enjoy hiking, yoga, and sci-fi. 
+    Finance, and Cybersecurity domains to improve data-based decision-making.  
     </p>
     <p class="lead">
-    Besides my work as a data scientist, I work as a senior researcher at the University of Geneva. 
-    I primarily investigate evidenced-based  communication strategies to facilitate behavior change. 
-    To this end, I am developing and experimentally evaluating different psychological intervention methods aimed at behavior change. 
+    Besides data science consultancy, DataIQ provides research services for the University of Geneva focusing on evidenced-based communication strategies to facilitate behavior change
+    using experimental survey methods. 
     </p>
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/fatih-uenal/"
+    btnText: "About DataIQ"
+    URL: "https://www.linkedin.com/company/dataiq-ch/"
   image:
     x: "img/who-am-i/user-picture-3.jpg"
     _2x: "img/who-am-i/user-picture-3.jpg"
@@ -110,13 +109,14 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Google"
-      year: "2023"
-      degree: "Google Cyber Security Professional"
+    # - university: "Google"
+    #   year: "2023"
+    #   degree: "Google Cyber Security Professional"
       
-    - university: "CompTIA Academy"
-      year: "2024"
-      degree: "CompTIA Security+ (in progress)" 
+    # - university: "CompTIA Academy"
+    #   year: "2024"
+    #   degree: "CompTIA Security+ (in progress)" 
+    
     - university: "Harvard University"
       year: "2021"
       degree: "Harvard Data Science Professional"
@@ -150,6 +150,21 @@ client_and_work:
   enable_clients: true
   clients:
     - logo:
+        x: "img/clients/camb.png"
+        _2x: "img/clients/camb@2x.png"
+      alt: "University of Cambridge"
+      
+    - logo:
+        x: "img/clients/faculty.png"
+        _2x: "img/clients/faculty@2x.png"
+      alt: "Faculty AI"
+      
+    - logo:
+        x: "img/clients/sussex.png"
+        _2x: "img/clients/sussex@2x.png"
+      alt: "University of Sussex"
+      
+    - logo:
         x: "img/clients/stand.png"
         _2x: "img/clients/stand@2x.png"
       URL: "https://stand.earth/"
@@ -161,24 +176,14 @@ client_and_work:
       alt: "Fossil Fuel Non-Proliferation Treaty Initiative"
 
     - logo:
-        x: "img/clients/camb.png"
-        _2x: "img/clients/camb@2x.png"
-      alt: "University of Cambridge"
-
-    - logo:
-        x: "img/clients/sussex.png"
-        _2x: "img/clients/sussex@2x.png"
-      alt: "University of Sussex"
-
-    - logo:
         x: "img/clients/TWN.png"
         _2x: "img/clients/TWN@2x.png"
       alt: "Third World Network"
-
-    - logo:
-        x: "img/clients/faculty.png"
-        _2x: "img/clients/faculty@2x.png"
-      alt: "Faculty AI"
+      
+    # - logo:
+    #     x: "img/clients/2560px-Uni_GE_logo.svg.png"
+    #     _2x: "img/clients/2560px-Uni_GE_logo.svg.png"
+    #   alt: "University of Sussex"
 
   works:
     
@@ -291,7 +296,7 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact Fatih"
+  title: "Contact DataIQ"
     
   image:
     x: "img/who-am-i/user-picture-3 copy.jpg"
@@ -307,7 +312,7 @@ contact:
     email: '<a href="mailto:mars.fatih@gmail.com">mars.fatih@gmail.com</a>'
   address:
     title: "Address"
-    address: "Campus Biotech, Chemin des Mines 9, 1202 Genève"
+    address: "Petit Saconnex, 1209 Genève"
   
 
 # newsletter

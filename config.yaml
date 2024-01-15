@@ -3,14 +3,14 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Fatih Uenal. All rights reserved.
+    copyright: © DataIQ. All rights reserved.
     site_logo:
       _2x: img/general/logo-png.png
       alt: Design & Code - The Dataist
       x: img/general/logo-png.png
   googleAnalyticsID: ''
   logo:
-    text1: dataIQ - AI/ML  
+    text1: DataIQ - AI/ML  
     text2: --------
   plugins:
     css:
