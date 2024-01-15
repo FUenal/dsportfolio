@@ -1,11 +1,11 @@
 head:
-  title: "The Dataist - Fatih Uenal"
+  title: "dataIQ - Data Science Consultancy"
 
 # showcase
 showcase:
   enable: true
-  title: "Fatih Uenal"
-  subtitle: "Senior Quantitative Researcher & Data Scientist"
+  title: "Data Science Consultancy"
+  subtitle: "Fatih Uenal, PhD"
   description: "Senior quantitative researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>, and Data Scientist with the <a target='_blank' href='https://fossilfueltreaty.org/'>Fossil Fuel Non-Proliferation Treaty Initiative </a>."
   image:
     x: "img/showcase/showcase.png"

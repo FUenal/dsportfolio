@@ -70,8 +70,8 @@ theme = "raditian-free-hugo-theme"
   [params.footer]
       copyright = "© Fatih Uenal. All rights reserved."
       [params.footer.site_logo]
-        x = "img/general/business-science-logo.png"
-        _2x = "img/general/business-science-logo.png"
-        alt = "Design & Code - Business Science"
+        x = "img/generallogo-transparent-png.png.png"
+        _2x = "img/general/logo-transparent-png.png.png"
+        alt = "Design & Code - The Dataist"
   
   
