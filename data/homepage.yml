@@ -181,6 +181,18 @@ client_and_work:
       alt: "Faculty AI"
 
   works:
+    
+    - title: "Multi-Channel Marketing Mix Optimization Dashboard"
+      description: "The goal of this app is to demonstrate a powerful usecase of using machine learning to improve estimated revenue by optimizing media channel spending and budget. Marketing campaigns can optimize their spending values on different media channels such as TV, Print, Search, Facebook, etc. to increase ROI, accounting for adstock values. "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://mmm-demo-hqbtfk5ikq-oa.a.run.app"
+      image:
+        x: "img/works/mmm-demo.png"
+        _2x: "img/works/mmm-demo.png"
+        is_even: false
+    
     - title: "Deep learning vs. XGBoost on network traffic data"
       description: "I use the fast.ai deep learning framework for one of its newest applications: classification on tabular data. I compare its performance against the incumbent best tool in the field, gradient boosting with XGBoost, as well as against various scikit-learn classifiers in detecting network intrusion traffic and classifying common network attack types (e.g., FTP-BruteForce, DOS-GoldenEye, BruteForce-XSS, SQL-Injection, BotAttack). "
       button:
@@ -191,6 +203,7 @@ client_and_work:
         x: "img/works/fastai_vs_xgboost.png"
         _2x: "img/works/fastai_vs_xgboost.png"
       is_even: true
+      
     - title: "XGBoost powered prediction on multi-county datasets"
       description: "In this full-stack data science project for the University of Geneva, I used XGBoost in python to distill the most important features in predicting fossil fuel taxtation preferences. The results of this project are available in a pre-print of the manuscript currently in preparation for an academic journal. "
       button:
