@@ -57,17 +57,16 @@ about:
   content: 
     <p class="lead">
     <strong> With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
-    the full potential of their data.</strong> I focus on applying machine learning, deep learning, and survey methodology techniques in the Marketing, 
-    Finance, and Cybersecurity domains to improve data-based decision-making.  
+    the full potential of their data.</strong> I focus on applying machine learning, deep learning, and survey methodology techniques in the <strong>Marketing</strong> and <strong>Finance</strong> domains to improve data-based decision-making. <br> 
     </p>
     <p class="lead">
     Besides data science consultancy, DataIQ provides research services for the University of Geneva focusing on evidenced-based communication strategies to facilitate behavior change
     using experimental survey methods. 
     </p>
   button:
-    icon: "icon-smile-fill"
-    btnText: "About DataIQ"
-    URL: "https://www.linkedin.com/company/dataiq-ch/"
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://dataiq.netlify.app/cv/resume_FUenal.pdf"
   image:
     x: "img/who-am-i/user-picture-3.jpg"
     _2x: "img/who-am-i/user-picture-3.jpg"
@@ -75,32 +74,41 @@ about:
 # experience
 experience:
   enable: true
-  title: "Experience"
-  description: "Over 8 years of experience working within consulting, industry, academia, and government. I design & develop data science products to help increase efficiency and resource management."
+  title: "Experience & Services"
+  description: "<br><b> <b> <b> Marketing </b> <br>  &#x2022;<small> Automated Marketing Mix Modeling (MMM | Facebook Robyn) <br>  &#x2022; Customer Lifetime Value with Machine Learning (CLV | RFM)  <br> &#x2022; Causal Machine Learning Marketing (Uber's CausalML) <br> &#x2022; Customer Segmentation Analysis (Scikit Learn & H2O) <br> &#x2022; NLP Topic Modeling Customer Survey (PyCaret | GENSIM) <br> &#x2022; Price Elasiticity & Automation (XGBoost | pyGAM) <br> &#x2022; A/B Testing </small> <br> </br> <strong> <strong> <strong> Finance </strong> </strong> </strong> <br> <small> &#x2022; Price forecasting (Multivariate | ARIMA | LSTM) <br> &#x2022; NLP For Predictive Business Modeling (Text Recipes) <br> &#x2022; Deep Learning for Loan Default Scoring (Torch | Tabnet) <br> &#x2022; Time Series with Spark (Modeltime | Google Analytics Forecast) <br> &#x2022; Forecasting at Scale (MetaFlow | Modeltime | AWS) <br> &#x2022; Bankruptcy Prediction AP (H2O | MLFlow) </small> <br>" 
+  button2:
+    icon: "icon-smile-fill"
+    btnText: "About DataIQ"
+    URL: "https://www.linkedin.com/company/dataiq-ch/"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/fatih-uenal/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "https://dataist.netlify.app/cv/resume_FUenal.pdf"
 
   items:
+
     - title: "Senior Data Scientist"
-      company: "Fossil Fuel Non-Proliferation Treaty Initiative"
-      duration: "Feb 2021 - to present"
+      company: "<a target='_blank' href='https://www.linkedin.com/company/dataiq-ch/'>DataIQ - Data Science Consultancy </a>"
+      duration: "Dec 2023 - to present"
+      
+    - title: "Senior Data Scientist"
+      company: "<a target='_blank' href='https://fossilfueltreaty.org/'>Fossil Fuel Non-Proliferation Treaty Initiative</a>"
+      duration: "Feb 2021 - Dec 2023"
       
     - title: "Behavioral Data Scientist"
-      company: "University of Geneva"
+      company: "<a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>"
       duration: "Oct 2021 - Dec 2023"
       
-    - title: "Data Scientist"
-      company: "University of Cambridge"
-      duration: "Aug 2020 - Dec 2020"
+    - title: "Data Science Fellow"
+      company: "<a target='_blank' href='https://faculty.ai/'>Faculty.ai</a>"
+      duration: "Jan 2021 - Mar 2021"
       
-    - title: "Data Analyst"
-      company: "Harvard University"
+    - title: "Postdoc / Data Scientist"
+      company: "<a target='_blank' href='https://www.sdmlab.psychol.cam.ac.uk/staff/dr-fatih-uenal'>University of Cambridge</a>"
+      duration: "Oct 2019 - Oct 2021"
+      
+    - title: "Postdoc / Data Analyst"
+      company: "<a target='_blank' href='https://scholar.harvard.edu/fatih-uenal'>Harvard University </a>"
       duration: "Aug 2016 - Aug 2018"
 
 
@@ -117,6 +125,10 @@ education:
     #   year: "2024"
     #   degree: "CompTIA Security+ (in progress)" 
     
+    - university: "Faculty AI"
+      year: "2021"
+      degree: "Data Science Fellowship"
+      
     - university: "Harvard University"
       year: "2021"
       degree: "Harvard Data Science Professional"
@@ -124,10 +136,6 @@ education:
     - university: "Harvard University"
       year: "2020"
       degree: "Harvard Data Science: Machine Learning"
-      
-    - university: "Faculty AI"
-      year: "2021-2021"
-      degree: "Data Science Fellowship"
 
     - university: "University of Cambridge"
       year: "2019-2021"
@@ -153,6 +161,7 @@ client_and_work:
         x: "img/clients/camb.png"
         _2x: "img/clients/camb@2x.png"
       alt: "University of Cambridge"
+      URL: "https://www.sdmlab.psychol.cam.ac.uk/staff/dr-fatih-uenal"
       
     - logo:
         x: "img/clients/faculty.png"
@@ -167,7 +176,6 @@ client_and_work:
     - logo:
         x: "img/clients/stand.png"
         _2x: "img/clients/stand@2x.png"
-      URL: "https://stand.earth/"
       alt: "Stand.Earth"
 
     - logo:
@@ -178,10 +186,9 @@ client_and_work:
     - logo:
         x: "img/clients/2560px-Uni_GE_logo.svg.png"
         _2x: "img/clients/2560px-Uni_GE_logo.svg.png"
-      alt: "Third World Network"
+      alt: "University of Geneva"
 
   works:
-    
     - title: "Multi-Channel Marketing Mix Optimization Dashboard"
       description: "The goal of this app is to demonstrate a powerful usecase of using machine learning to improve estimated revenue by optimizing media channel spending and budget. Marketing campaigns can optimize their spending values on different media channels such as TV, Print, Search, Facebook, etc. to increase ROI, accounting for adstock values. "
       button:
@@ -248,16 +255,16 @@ client_and_work:
         _2x: "img/works/Oxford.png"
       is_even: true
       
-    - title: "Introducing the Fossil Fuel Non-Proliferation Tracker"
-      description: "In this short video, I'll walk you through one of my data science projects which I developed for the Fossil Fuel Non-Proliferation Treaty Initiative (https://fossilfueltreaty.org/). I explain what the goals of the Treaty Initiative are, and, how my project introduced data science and AI to improve the data workflow and public communication of the Initiative. I explain how I programmed a Dashboard with R and trained an Artificial Neural Network for text classification and how these assist the Treaty in their efforts."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Watch Video"
-        URL: "https://youtu.be/fyJAz2UE92s"
-      image:
-        x: "img/works/tracker-walkthrough.png"
-        _2x: "img/works/tracker-walkthrough.png"
-      is_even: false
+    # - title: "Introducing the Fossil Fuel Non-Proliferation Tracker"
+    #   description: "In this short video, I'll walk you through one of my data science projects which I developed for the Fossil Fuel Non-Proliferation Treaty Initiative (https://fossilfueltreaty.org/). I explain what the goals of the Treaty Initiative are, and, how my project introduced data science and AI to improve the data workflow and public communication of the Initiative. I explain how I programmed a Dashboard with R and trained an Artificial Neural Network for text classification and how these assist the Treaty in their efforts."
+    #   button:
+    #     icon: "icon-arrow-right"
+    #     btnText: "Watch Video"
+    #     URL: "https://youtu.be/fyJAz2UE92s"
+    #   image:
+    #     x: "img/works/tracker-walkthrough.png"
+    #     _2x: "img/works/tracker-walkthrough.png"
+    #   is_even: false
 
     
 

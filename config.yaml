@@ -6,7 +6,7 @@ params:
     copyright: © DataIQ. All rights reserved.
     site_logo:
       _2x: img/general/logo-png.png
-      alt: Design & Code - The Dataist
+      alt: Design & Code -  DataIQ
       x: img/general/logo-png.png
   googleAnalyticsID: ''
   logo:
@@ -38,12 +38,15 @@ menu:
     - URL: '#portfolio'
       name: Portfolio
       weight: 3
+    - URL: '#experience'
+      name: Services
+      weight: 4
     - URL: '#testimonial'
       name: Testimonials
-      weight: 4
+      weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 5
+      weight: 6
   header:
     - URL: '#about'
       name: About
@@ -51,9 +54,12 @@ menu:
     - URL: '#portfolio'
       name: Portfolio
       weight: 3
+    - URL: '#experience'
+      name: Services
+      weight: 4
     - URL: '#testimonial'
       name: Testimonials
-      weight: 4
+      weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 5
+      weight: 6

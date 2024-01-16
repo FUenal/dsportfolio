@@ -69,7 +69,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "client-and-work", "experience", "education",  "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "client-and-work", "experience", "education", "testimonial", "contact", "newsletter"]
 
   googleAnalyticsID = "" 
 
@@ -82,6 +82,6 @@ theme = "raditian-free-hugo-theme"
       [params.footer.site_logo]
         x = "img/generallogo-transparent-png.png.png"
         _2x = "img/general/logo-transparent-png.png.png"
-        alt = "Design & Code - The Dataist"
+        alt = "Design & Code - DataIQ"
   
   
