@@ -231,7 +231,7 @@ client_and_work:
       image:
         x: "img/works/xgboost.jpg"
         _2x: "img/works/xgboost.jpg"
-      is_even: false
+      is_even: true
       
     - title: "Fossil fuel non-proliferation policy tracker application"
       description: "The objective of the Fossil Fuel Non-Proliferation Tracker is to identify, gather, filter, categorise and visualise supply-side policies on a global scale, while also providing granular insight within each country on the actors involved in furthering supply-side policies. "
