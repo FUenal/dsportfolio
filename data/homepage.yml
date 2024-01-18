@@ -199,7 +199,7 @@ client_and_work:
         x: "img/works/mmm_demo.png"
         _2x: "img/works/mmm_demo.png"
         is_even: false
-    
+        
     - title: "Deep learning vs. XGBoost on network traffic data"
       description: "I use the fast.ai deep learning framework for one of its newest applications: classification on tabular data. I compare its performance against the incumbent best tool in the field, gradient boosting with XGBoost, as well as against various scikit-learn classifiers in detecting network intrusion traffic and classifying common network attack types (e.g., FTP-BruteForce, DOS-GoldenEye, BruteForce-XSS, SQL-Injection, BotAttack). "
       button:
@@ -210,6 +210,17 @@ client_and_work:
         x: "img/works/fastai_vs_xgboost.png"
         _2x: "img/works/fastai_vs_xgboost.png"
       is_even: true
+      
+    - title: "Customer Lifetime Value Analytics Dashboard"
+      description: "This app showcases a powerful way of predicting custormer spending for a 90-day evaluation period using machine learning and RFM data (Cohort analysis & Time spltting). "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://clv-demo-hqbtfk5ikq-oa.a.run.app/"
+      image:
+        x: "img/works/clv_demo.png"
+        _2x: "img/works/clv_demo.png"
+        is_even: true
       
     - title: "XGBoost powered prediction on multi-county datasets"
       description: "In this full-stack data science project for the University of Geneva, I used XGBoost in python to distill the most important features in predicting fossil fuel taxtation preferences. The results of this project are available in a pre-print of the manuscript currently in preparation for an academic journal. "
@@ -231,7 +242,7 @@ client_and_work:
       image:
         x: "img/works/tracker-app.jpg"
         _2x: "img/works/tracker-app.jpg"
-      is_even: true
+      is_even: false
 
     - title: "NLP pipeline for text-classification"
       description: "This application is based on an Artificial Neural Network model to classify policy texts using data from various sources such as news-articles and official government databases. Having an automated text classification model saves a significant amount of time and resources and allows for a real-time tracking of fossil-fuel policy developments."
@@ -242,7 +253,7 @@ client_and_work:
       image:
         x: "img/works/NLP_Pipeline.jpg"
         _2x: "img/works/NLP_Pipeline.jpg"
-      is_even: false
+      is_even: true
       
     - title: "Using AI and Data Science in climate policy research"
       description: "At the University of Oxford, I present how we use AI and Data Science to accelerate and improve the policy research and advocacy work at the Fossil Fuel Non-Proliferation Treaty Initiative."
@@ -253,7 +264,7 @@ client_and_work:
       image:
         x: "img/works/Oxford.png"
         _2x: "img/works/Oxford.png"
-      is_even: true
+      is_even: false
       
     # - title: "Introducing the Fossil Fuel Non-Proliferation Tracker"
     #   description: "In this short video, I'll walk you through one of my data science projects which I developed for the Fossil Fuel Non-Proliferation Treaty Initiative (https://fossilfueltreaty.org/). I explain what the goals of the Treaty Initiative are, and, how my project introduced data science and AI to improve the data workflow and public communication of the Initiative. I explain how I programmed a Dashboard with R and trained an Artificial Neural Network for text classification and how these assist the Treaty in their efforts."
