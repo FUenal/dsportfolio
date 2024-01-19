@@ -41,12 +41,12 @@ menu:
     - URL: '#experience'
       name: Services
       weight: 4
-    - URL: '#testimonial'
-      name: Testimonials
-      weight: 5
+    # - URL: '#testimonial'
+    #   name: Testimonials
+    #   weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 6
+      weight: 5
   header:
     - URL: '#about'
       name: About
@@ -57,9 +57,9 @@ menu:
     - URL: '#experience'
       name: Services
       weight: 4
-    - URL: '#testimonial'
-      name: Testimonials
-      weight: 5
+    # - URL: '#testimonial'
+    #   name: Testimonials
+    #   weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 6
+      weight: 5

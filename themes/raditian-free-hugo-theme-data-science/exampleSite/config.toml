@@ -34,16 +34,11 @@ theme = "raditian-free-hugo-theme"
   name = "Portfolio"
   URL = "#portfolio"
   weight = 3
-  
-  [[menu.header]]
-  name = "Testimonials"
-  URL = "#testimonial"
-  weight = 4
 
   [[menu.header]]
   name = "Contact"
   URL = "#contact"
-  weight = 5
+  weight = 4
 
 
   [[menu.footer]]
@@ -55,16 +50,11 @@ theme = "raditian-free-hugo-theme"
   name = "Portfolio"
   URL = "#portfolio"
   weight = 3
-  
-  [[menu.footer]]
-  name = "Testimonials"
-  URL = "#testimonial"
-  weight = 4
 
   [[menu.footer]]
   name = "Contact"
   URL = "#contact"
-  weight = 5
+  weight = 4
 
 
 [params]
