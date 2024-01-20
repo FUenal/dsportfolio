@@ -107,11 +107,14 @@ experience:
     - title: "Postdoc / Data Scientist"
       company: "<a target='_blank' href='https://www.sdmlab.psychol.cam.ac.uk/staff/dr-fatih-uenal'>University of Cambridge</a>"
       duration: "Oct 2019 - Oct 2021"
+
+    - title: "CEO"
+      company: "<a target='_blank' href='https://raw.githubusercontent.com/FUenal/resources/main/Screen%20Shot%202018-02-21%20at%2012.05.08.png'>German Connect - Management Consulting</a>"
+      duration: "Sep 2018 - Oct 2019"
       
     - title: "Postdoc / Data Analyst"
       company: "<a target='_blank' href='https://scholar.harvard.edu/fatih-uenal'>Harvard University </a>"
       duration: "Aug 2016 - Aug 2018"
-
 
 # education
 education:
@@ -141,7 +144,7 @@ education:
     - university: "University of Cambridge"
       year: "2019-2021"
       degree: "Postdoctoral research associate"
-
+      
     - university: "Harvard University"
       year: "2016-2018"
       degree: "Postdoctoral researcher"
@@ -301,7 +304,7 @@ testimonial:
         _2x: "img/testimonials/sander.jpg"
         
     - name: "Ruth Fortmann, PhD"
-      position: "Head of Fellowship @ Faculty.ai | BCG Gamma"
+      position: "Data Scientist @ Faculty.ai | Senior Data Scientist BCG Gamma"
       content: "In less than 2 months after starting his Faculty AI Data Science Fellowship, Fatih had sucessfully transitioned into a role as a data scientist with the Fossil Fuel Non-Proliferation Treaty Initiative. "
       image:
         x: "img/testimonials/ruth_fortmann.jpg"
