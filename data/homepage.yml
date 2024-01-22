@@ -203,17 +203,28 @@ client_and_work:
         x: "img/works/mmm_demo.png"
         _2x: "img/works/mmm_demo.png"
         is_even: false
-        
-    - title: "Deep learning vs. XGBoost on network traffic data"
-      description: "I use the fast.ai deep learning framework for one of its newest applications: classification on tabular data. I compare its performance against the incumbent best tool in the field, gradient boosting with XGBoost, as well as against various scikit-learn classifiers in detecting network intrusion traffic and classifying common network attack types (e.g., FTP-BruteForce, DOS-GoldenEye, BruteForce-XSS, SQL-Injection, BotAttack). "
+
+    - title: "Time Series: Product Demand Forecasting App"
+      description: "In this Shiny for Python interactive web application, I used multiple algorithms (e.g., XGBosst, ligthgbm, catboost) for timeseries forcasting. The demo app is built on simulated product demand data and produces timeseries forecasts using variable time-spans and multiple algorithms across a variety of consumer products to predict demand variabilty."
       button:
         icon: "icon-arrow-right"
-        btnText: "Open Github"
-        URL: "https://github.com/FUenal/deep-learning-cybersecurity-ids/tree/main"
+        btnText: "Show larger picture"
+        URL: "https://raw.githubusercontent.com/FUenal/resources/main/timeseries_forecast_demo.png"
       image:
-        x: "img/works/fastai_vs_xgboost.png"
-        _2x: "img/works/fastai_vs_xgboost.png"
+        x: "img/works/timeseries_forecast_demo.png"
+        _2x: "img/works/timeseries_forecast_demo.png"
       is_even: true
+      
+    # - title: "Deep learning vs. XGBoost on network traffic data"
+    #   description: "I use the fast.ai deep learning framework for one of its newest applications: classification on tabular data. I compare its performance against the incumbent best tool in the field, gradient boosting with XGBoost, as well as against various scikit-learn classifiers in detecting network intrusion traffic and classifying common network attack types (e.g., FTP-BruteForce, DOS-GoldenEye, BruteForce-XSS, SQL-Injection, BotAttack). "
+    #   button:
+    #     icon: "icon-arrow-right"
+    #     btnText: "Open Github"
+    #     URL: "https://github.com/FUenal/deep-learning-cybersecurity-ids/tree/main"
+    #   image:
+    #     x: "img/works/fastai_vs_xgboost.png"
+    #     _2x: "img/works/fastai_vs_xgboost.png"
+    #   is_even: true
       
     - title: "Customer Lifetime Value Analytics Dashboard"
       description: "This app showcases a powerful way of predicting custormer spending for a 90-day evaluation period using machine learning and RFM data (Cohort analysis & Time spltting). "
