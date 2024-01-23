@@ -56,13 +56,13 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong> With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
-    the full potential of their data.</strong>  I focus on applying data analytics, machine learning, and  deep learning to improve data-based decision-making. 
-    My specialization is in <strong>NLP, time series analysis</strong>, and <strong>predictive modeling</strong> at the cross-section of <strong>Marketing</strong> and <strong>Finance</strong>.
+    With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
+    the full potential of their data. I focus on applying data analytics, machine learning, and  deep learning to improve data-based decision-making. 
+    My specialization is in NLP, time series analysis, and predictive modeling at the cross-section of Marketing</strong> and Finance.
     Besides data science consultancy, I provide expertise in survey methodology and design (experimental & longitudinal). <br> 
     # </p>
     # <p class="lead">
-    # Besides data science consultancy, DATAIQ provides expertise in survey methdology and design (experimental & longitudinal). 
+    # Besides data science consultancy, DATAIQ provides expertise in survey methodology and design (experimental & longitudinal). 
     # </p>
   button:
     icon: "icon-profile-fill"
@@ -76,7 +76,7 @@ about:
 experience:
   enable: true
   title: "Experience & Services"
-  description: "<br> <b> <b> <b> Marketing </b> <br>  &#x2022; Automated Marketing Mix Modeling (MMM | Facebook Robyn) <br>  &#x2022; Customer Lifetime Value with Machine Learning (CLV | RFM)  <br> &#x2022; Causal Machine Learning Marketing (Uber's CausalML) <br> &#x2022; Customer Segmentation Analysis (Scikit Learn & H2O) <br> &#x2022; NLP Topic Modeling Customer Survey (PyCaret | GENSIM) <br> &#x2022; A/B Testing <br> </br> <strong> <strong> <strong> Finance </strong> </strong> </strong> <br> &#x2022; Price forecasting (Multivariate | ARIMA | LSTM) <br> &#x2022; NLP For Predictive Business Modeling (Text Recipes) <br> &#x2022; Deep Learning for Loan Default Scoring (Torch | Tabnet) <br> &#x2022; Time Series with Spark (Modeltime | Google Analytics Forecast) <br> &#x2022; Forecasting at Scale (MetaFlow | Modeltime | AWS)  <br> <br> <b> <b> <b> Survey Methdology </b> </b> </b> <br>  &#x2022; Survey design and execution (experimental, longitudinal) <br> &#x2022; Descriptive and inferential data analysis (R, Python, STATA) <br> &#x2022; Data visualization <br>" # &#x2022; Price Elasiticity & Automation (XGBoost | pyGAM) <br> <br> &#x2022; Bankruptcy Prediction AP (H2O | MLFlow)
+  description: "<br> <b> <b> <b> Marketing </b> <br>  &#x2022; Automated Marketing Mix Modeling (MMM | Facebook Robyn) <br>  &#x2022; Customer Lifetime Value with Machine Learning (CLV | RFM)  <br> &#x2022; Causal Machine Learning Marketing (Uber's CausalML) <br> &#x2022; Customer Segmentation Analysis (Scikit Learn & H2O) <br> &#x2022; NLP Topic Modeling Customer Survey (PyCaret | GENSIM) <br> &#x2022; A/B Testing <br> </br> <strong> <strong> <strong> Finance </strong> </strong> </strong> <br> &#x2022; Price forecasting (Multivariate | ARIMA | LSTM) <br> &#x2022; NLP For Predictive Business Modeling (Text Recipes) <br> &#x2022; Deep Learning for Loan Default Scoring (Torch | Tabnet) <br> &#x2022; Time Series with Spark (Modeltime | Google Analytics Forecast) <br> &#x2022; Forecasting at Scale (MetaFlow | Modeltime | AWS)  <br> <br> <b> <b> <b> Survey Methodology </b> </b> </b> <br>  &#x2022; Survey design and execution (experimental, longitudinal) <br> &#x2022; Descriptive and inferential data analysis (R, Python, STATA) <br> &#x2022; Data visualization <br>" # &#x2022; Price Elasiticity & Automation (XGBoost | pyGAM) <br> <br> &#x2022; Bankruptcy Prediction AP (H2O | MLFlow)
   button2:
     icon: "icon-smile-fill"
     btnText: "About DataIQ"
@@ -242,11 +242,11 @@ client_and_work:
         _2x: "img/works/clv_demo.png"
         is_even: true
       
-    - title: "XGBoost powered prediction on multi-county datasets"
-      description: "In this full-stack data science project for the University of Geneva, I used XGBoost in python to distill the most important features in predicting fossil fuel taxtation preferences. The results of this project are available in a pre-print of the manuscript currently in preparation for an academic journal. "
+    - title: "XGBoost powered prediction on multi-country datasets"
+      description: "In this full-stack data science project for the University of Geneva, I used XGBoost in Python to distill the most important features in predicting fossil fuel taxtation preferences. The results of this project are available in a pre-print of the manuscript currently in preparation for an academic journal. "
       button:
         icon: "icon-arrow-right"
-        btnText: "Open Juypter Notebook"
+        btnText: "Open Jupyter Notebook"
         URL: "https://colab.research.google.com/drive/1fHdv-q-jNwi8oZONkjoMpz1TwQ_rxfeI#scrollTo=n4oTDmOm71Rs"
       image:
         x: "img/works/xgboost.jpg"
