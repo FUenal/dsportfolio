@@ -59,7 +59,7 @@ about:
     <strong> With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
     the full potential of their data.</strong>  I focus on applying data analytics, machine learning, and  deep learning to improve data-based decision-making. 
     My specialization is in <strong>NLP, time series analysis</strong>, and <strong>predictive modeling</strong> at the cross-section of <strong>Marketing</strong> and <strong>Finance</strong>.
-    Besides data science consultancy, I provide expertise in survey methdology and design (experimental & longitudinal). <br> 
+    Besides data science consultancy, I provide expertise in survey methodology and design (experimental & longitudinal). <br> 
     # </p>
     # <p class="lead">
     # Besides data science consultancy, DATAIQ provides expertise in survey methdology and design (experimental & longitudinal). 
@@ -171,27 +171,32 @@ client_and_work:
         x: "img/clients/faculty.png"
         _2x: "img/clients/faculty@2x.png"
       alt: "Faculty AI"
+      URL: "https://dataiq.netlify.app/"
       
     - logo:
         x: "img/clients/Harvard_University_logo.png"
         _2x: "img/clients/Harvard_University_logo.png"
       alt: "University of Sussex"
+      URL: "https://dataiq.netlify.app/"
       
     - logo:
         x: "img/clients/stand.png"
         _2x: "img/clients/stand@2x.png"
       alt: "Stand.Earth"
+      URL: "https://dataiq.netlify.app/"
 
     - logo:
         x: "img/clients/Primary_fullcolour_for+light+bgFFT.png"
         _2x: "img/clients/Primary_fullcolour_for+light+bgFFT.png"
       alt: "Fossil Fuel Non-Proliferation Treaty Initiative"
+      URL: "https://dataiq.netlify.app/"
 
     - logo:
         x: "img/clients/2560px-Uni_GE_logo.svg.png"
         _2x: "img/clients/2560px-Uni_GE_logo.svg.png"
       alt: "University of Geneva"
-
+      URL: "https://dataiq.netlify.app/"
+      
   works:
     - title: "Multi-Channel Marketing Mix Optimization Dashboard"
       description: "The goal of this app is to demonstrate a powerful usecase of using machine learning to improve estimated revenue by optimizing media channel spending and budget. Marketing campaigns can optimize their spending values on different media channels such as TV, Print, Search, Facebook, etc. to increase ROI, accounting for adstock values. "
