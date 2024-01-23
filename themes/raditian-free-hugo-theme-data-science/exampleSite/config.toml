@@ -73,6 +73,6 @@ theme = "raditian-free-hugo-theme"
       [params.footer.site_logo]
         x = "img/generallogo-transparent-png.png"
         _2x = "img/general/logo-transparent-png.png"
-        alt = "Design & Code - DataIQ"
+        alt = "Design & Code - DATAIQ"
   
   

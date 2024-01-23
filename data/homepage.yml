@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Data Science Consultancy"
   subtitle: "Fatih Uenal, PhD"
-  description: "Senior Data Scientist <a target='_blank' href='https://www.linkedin.com/company/dataiq-ch/'>DataIQ </a>, and Behavioral researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>."
+  description: "Senior Data Scientist" #  <a target='_blank' href='https://www.linkedin.com/company/dataiq-ch/'>DataIQ </a>, and Behavioral researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>.
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase.png"
@@ -57,13 +57,13 @@ about:
   content: 
     <p class="lead">
     <strong> With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
-    the full potential of their data.</strong> <br> <br>  I focus on applying data analytics, machine learning, deep learning, and survey methodology techniques to improve data-based decision-making. 
-    My specialization is in NLP, time series analysis, and predictive modeling at the cross-section of <strong>Marketing</strong> and <strong>Finance</strong>.  <br> 
-    </p>
-    <p class="lead">
-    Besides data science consultancy, DataIQ provides research services for the University of Geneva focusing on evidenced-based communication strategies to facilitate behavior change
-    using experimental survey methods. 
-    </p>
+    the full potential of their data.</strong>  I focus on applying data analytics, machine learning, and  deep learning to improve data-based decision-making. 
+    My specialization is in <strong>NLP, time series analysis</strong>, and <strong>predictive modeling</strong> at the cross-section of <strong>Marketing</strong> and <strong>Finance</strong>.
+    Besides data science consultancy, I provide expertise in survey methdology and design (experimental & longitudinal). <br> 
+    # </p>
+    # <p class="lead">
+    # Besides data science consultancy, DATAIQ provides expertise in survey methdology and design (experimental & longitudinal). 
+    # </p>
   button:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"

@@ -3,7 +3,7 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © DataIQ. All rights reserved.
+    copyright: © DATAIQ. All rights reserved.
     site_logo:
       _2x: img/general/logo-transparent-png.png
       alt: Design & Code -  DataIQ
