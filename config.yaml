@@ -5,13 +5,13 @@ params:
   footer:
     copyright: © DataIQ. All rights reserved.
     site_logo:
-      _2x: img/general/logo-png.png
+      _2x: img/general/logo-transparent-png.png
       alt: Design & Code -  DataIQ
-      x: img/general/logo-png.png
+      x: img/general/logo-transparent-png.png
   googleAnalyticsID: ''
   logo:
-    text1: DataIQ - AI/ML  
-    text2: --------
+    text1: D  A  T  A  I  Q  
+    text2: 
   plugins:
     css:
       - URL: css/main.css

@@ -64,14 +64,15 @@ theme = "raditian-free-hugo-theme"
   googleAnalyticsID = "" 
 
   [params.logo]
-    text1 = "Fatih"
-    text2 = "Uenal"
+    x = "img/generallogo-transparent-png.png"
+    _2x = "img/general/logo-transparent-png.png"
+    alt = "Design & Code - DataIQ"
 
   [params.footer]
       copyright = "© Fatih Uenal. All rights reserved."
       [params.footer.site_logo]
-        x = "img/generallogo-transparent-png.png.png"
-        _2x = "img/general/logo-transparent-png.png.png"
+        x = "img/generallogo-transparent-png.png"
+        _2x = "img/general/logo-transparent-png.png"
         alt = "Design & Code - DataIQ"
   
   

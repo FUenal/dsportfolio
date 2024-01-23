@@ -345,11 +345,11 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact DataIQ"
+  title: "Contact"
     
   image:
-    x: "img/who-am-i/user-picture-3 copy.jpg"
-    _2x: "img/who-am-i/user-picture-3 copy.jpg"
+    x: "img/who-am-i/logo-transparent-png copy.png"
+    _2x: "img/who-am-i/logo-transparent-png copy.png"
     
   button:
     icon: "icon-mail-fill"
