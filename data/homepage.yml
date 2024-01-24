@@ -210,7 +210,7 @@ client_and_work:
         is_even: false
 
     - title: "Time Series: Product Demand Forecasting App"
-      description: "In this Shiny for Python interactive web application, I used multiple algorithms (e.g., XGBosst, ligthgbm, catboost) for timeseries forcasting. The demo app is built on simulated product demand data and produces timeseries forecasts using variable time-spans and multiple algorithms across a variety of consumer products to predict demand variabilty."
+      description: "In this Shiny for Python interactive web application, I used multiple algorithms (e.g., XGBoost, ligthgbm, catboost) for timeseries forcasting. The demo app is built on simulated product demand data and produces timeseries forecasts using variable time-spans and multiple algorithms across a variety of consumer products to predict demand variabilty."
       button:
         icon: "icon-arrow-right"
         btnText: "Show larger picture"
