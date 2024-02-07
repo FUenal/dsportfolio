@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Data Science Consultancy"
-  subtitle: "Fatih Uenal, PhD"
+  subtitle: "Fatih Uenal"
   description: "Senior Data Scientist" #  <a target='_blank' href='https://www.linkedin.com/company/dataiq-ch/'>DataIQ </a>, and Behavioral researcher at the <a target='_blank' href='https://www.unige.ch/cisa/center/members/uenal-fatih/'>University of Geneva</a>.
   image:
     x: "img/showcase/showcase.png"
@@ -76,7 +76,7 @@ about:
 experience:
   enable: true
   title: "Experience & Services"
-  description: "<br> <b> <b> <b> Marketing </b> <br>  &#x2022; Automated Marketing Mix Modeling (MMM | Facebook Robyn) <br>  &#x2022; Customer Lifetime Value with Machine Learning (CLV | RFM)  <br> &#x2022; Causal Machine Learning Marketing (Uber's CausalML) <br> &#x2022; Customer Segmentation Analysis (Scikit Learn & H2O) <br> &#x2022; NLP Topic Modeling Customer Survey (PyCaret | GENSIM) <br> &#x2022; A/B Testing <br> </br> <strong> <strong> <strong> Finance </strong> </strong> </strong> <br> &#x2022; Price forecasting (Multivariate | ARIMA | LSTM) <br> &#x2022; NLP For Predictive Business Modeling (Text Recipes) <br> &#x2022; Deep Learning for Loan Default Scoring (Torch | Tabnet) <br> &#x2022; Time Series with Spark (Modeltime | Google Analytics Forecast) <br> &#x2022; Forecasting at Scale (MetaFlow | Modeltime | AWS)  <br> <br> <b> <b> <b> Survey Methodology </b> </b> </b> <br>  &#x2022; Survey design and execution (experimental, longitudinal) <br> &#x2022; Descriptive and inferential data analysis (R, Python, STATA) <br> &#x2022; Data visualization <br>" # &#x2022; Price Elasiticity & Automation (XGBoost | pyGAM) <br> <br> &#x2022; Bankruptcy Prediction AP (H2O | MLFlow)
+  description: "<br> <b> <b> <b> Marketing </b> <br>  &#x2022; Automated Marketing Mix Modeling (MMM | DASH) <br>  &#x2022; Customer Lifetime Value with Machine Learning (CLV | RFM)  <br> &#x2022; Causal Machine Learning Marketing (Uber's CausalML) <br> &#x2022; Customer Segmentation Analysis (Scikit Learn & H2O) <br> &#x2022; NLP Topic Modeling Customer Survey (PyCaret | GENSIM) <br> &#x2022; A/B Testing <br> </br> <strong> <strong> <strong> Finance </strong> </strong> </strong> <br> &#x2022; Price forecasting (Multivariate | ARIMA | LSTM) <br> &#x2022; NLP For Predictive Business Modeling (Text Recipes) <br> &#x2022; Deep Learning for Loan Default Scoring (Torch | Tabnet) <br> &#x2022; Time Series with Spark (Modeltime | Google Analytics Forecast) <br> &#x2022; Forecasting at Scale (MetaFlow | Modeltime | AWS)  <br> <br> <b> <b> <b> Survey Methodology </b> </b> </b> <br>  &#x2022; Survey design and execution (experimental, longitudinal) <br> &#x2022; Descriptive and inferential data analysis (R, Python, STATA) <br> &#x2022; Data visualization (Shiny | Streamlit | Dash | Matplotlib | ggplot) <br>" # &#x2022; Price Elasiticity & Automation (XGBoost | pyGAM) <br> <br> &#x2022; Bankruptcy Prediction AP (H2O | MLFlow)
   button2:
     icon: "icon-smile-fill"
     btnText: "About DataIQ"
@@ -297,7 +297,6 @@ client_and_work:
     #     _2x: "img/works/tracker-walkthrough.png"
     #   is_even: false
 
-    
 
 # testimonial
 testimonial:
