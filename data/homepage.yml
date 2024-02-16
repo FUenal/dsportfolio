@@ -213,8 +213,8 @@ client_and_work:
       description: "In this Shiny for Python interactive web application, I used multiple algorithms (e.g., XGBoost, ligthgbm, catboost) for timeseries forcasting. The demo app is built on simulated product demand data and produces timeseries forecasts using variable time-spans and multiple algorithms across a variety of consumer products to predict demand variabilty."
       button:
         icon: "icon-arrow-right"
-        btnText: "Show larger picture"
-        URL: "https://raw.githubusercontent.com/FUenal/resources/main/timeseries_forecast_demo.png"
+        btnText: "Launch Application"
+        URL: "https://timeseries-forecasting-hqbtfk5ikq-oa.a.run.app"
       image:
         x: "img/works/timeseries_forecast_demo.png"
         _2x: "img/works/timeseries_forecast_demo.png"
