@@ -318,6 +318,13 @@ testimonial:
     #     x: "img/testimonials/sander.jpg"
     #     _2x: "img/testimonials/sander.jpg"
         
+    - name: "Maria Diaz, PhD"
+      position: "Head of Fellowship @ Faculty.ai"
+      content: "Fatih is an incredible person to work with. He has extensive knowledge in the data science and ML space. Apart from his technical skills, he is commercially savvy and able to work with clients. I would highly recommend Fatih to anyone looking for the 'best'. "
+      image:
+        x: "img/testimonials/maria.jpg"
+        _2x: "img/testimonials/maria.jpg"
+        
     - name: "Ruth Fortmann, PhD"
       position: "Data Scientist @ Faculty.ai | Senior Data Scientist BCG Gamma"
       content: "In less than 2 months after starting his Faculty AI Data Science Fellowship, Fatih had sucessfully transitioned into a role as a data scientist with the Fossil Fuel Non-Proliferation Treaty Initiative. "
