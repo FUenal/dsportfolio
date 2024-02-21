@@ -304,19 +304,19 @@ testimonial:
   title: "Testimonials"
   items:
   
-    - name: "Tobias Brosch, PhD"
-      position: "Professor in Psychology of Sustainable Development | University of Geneva"
-      content: "Fatih Uenal has particularly strong knowledge and expertise in different types of data analysis. He has carried out his mission with autonomy and efficiency. His involvement and skills were appreciated by the whole team."
-      image:
-        x: "img/testimonials/tobias_brosch.jpg"
-        _2x: "img/testimonials/tobias_brosch.jpg"
-        
-    - name: "Sander van der Linden, PhD"
-      position: "Professor in Social Psychology | University of Cambridge"
-      content: "Thanks to Fatih's skills in data analysis and machine learning, we were able to conduct big data analysis and gain valuable insights into Europeans' energy preferences. "
-      image:
-        x: "img/testimonials/sander.jpg"
-        _2x: "img/testimonials/sander.jpg"
+    # - name: "Tobias Brosch, PhD"
+    #   position: "Professor in Psychology of Sustainable Development | University of Geneva"
+    #   content: "Fatih Uenal has particularly strong knowledge and expertise in different types of data analysis. He has carried out his mission with autonomy and efficiency. His involvement and skills were appreciated by the whole team."
+    #   image:
+    #     x: "img/testimonials/tobias_brosch.jpg"
+    #     _2x: "img/testimonials/tobias_brosch.jpg"
+    #     
+    # - name: "Sander van der Linden, PhD"
+    #   position: "Professor in Social Psychology | University of Cambridge"
+    #   content: "Thanks to Fatih's skills in data analysis and machine learning, we were able to conduct big data analysis and gain valuable insights into Europeans' energy preferences. "
+    #   image:
+    #     x: "img/testimonials/sander.jpg"
+    #     _2x: "img/testimonials/sander.jpg"
         
     - name: "Ruth Fortmann, PhD"
       position: "Data Scientist @ Faculty.ai | Senior Data Scientist BCG Gamma"
