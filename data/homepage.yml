@@ -53,12 +53,12 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "Who am I"
   content: 
     <p class="lead">
     With over 8 years of experience working in consulting, industry, academia, and government, I help organizations understand and leverage 
     the full potential of their data. I focus on applying data analytics, machine learning, and  deep learning to improve data-based decision-making. 
-    <br> <br> My specialization is in time series analysis, forecasting, and predictive modeling at the cross-section of Finance and Marketing.
+    <br> <br> My specialization is in time series analysis, forecasting, and predictive modeling at the cross-section of Sustainability, Finance, and Marketing.
     # Besides data science and analytics consultancy, I provide expertise in survey methodology and design (experimental & longitudinal). <br> 
     # </p>
     # <p class="lead">
