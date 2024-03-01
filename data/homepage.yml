@@ -303,14 +303,7 @@ testimonial:
   enable: true
   title: "Testimonials"
   items:
-  
-    # - name: "Tobias Brosch, PhD"
-    #   position: "Professor in Psychology of Sustainable Development | University of Geneva"
-    #   content: "Fatih Uenal has particularly strong knowledge and expertise in different types of data analysis. He has carried out his mission with autonomy and efficiency. His involvement and skills were appreciated by the whole team."
-    #   image:
-    #     x: "img/testimonials/tobias_brosch.jpg"
-    #     _2x: "img/testimonials/tobias_brosch.jpg"
-    #     
+
     # - name: "Sander van der Linden, PhD"
     #   position: "Professor in Social Psychology | University of Cambridge"
     #   content: "Thanks to Fatih's skills in data analysis and machine learning, we were able to conduct big data analysis and gain valuable insights into Europeans' energy preferences. "
@@ -352,6 +345,14 @@ testimonial:
       image:
         x: "img/testimonials/jim_sidanius.jpg"
         _2x: "img/testimonials/jim_sidanius.jpg"
+
+    - name: "Tobias Brosch, PhD"
+      position: "Professor in Psychology of Sustainable Development | University of Geneva"
+      content: "It was a pleasure working with Fatih! I was highly impressed by his extensive knowledge and expertise in data analysis, machine learning, and data visualization. He managed the project tasks and the team efficiently, and was great in handling interactions with the project stakeholders. I strongly recommend him to anyone looking for a smart, friendly, and engaged person with serious data handling chops!"
+      image:
+        x: "img/testimonials/tobias_brosch.jpg"
+        _2x: "img/testimonials/tobias_brosch.jpg"
+
 
 # contact
 contact:
